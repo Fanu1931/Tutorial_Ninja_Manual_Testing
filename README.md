@@ -54,8 +54,8 @@
 **📞 Get in Touch:**
 - GitHub: Fanu1931
 - LinkedIn: (https://www.linkedin.com/in/fanu1931)
-- 📫 How to reach me **faneshwargite2018@gmail.com**
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33)
+- 📫 Mail: **faneshwargite2018@gmail.com**
+- 📄 Resume Link: [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33)
 
 ✨ Excited about building and testing quality software that delivers great user experiences! ✨
 
