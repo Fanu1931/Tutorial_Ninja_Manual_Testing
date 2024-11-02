@@ -5,17 +5,63 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fanu1931" alt="fanu1931" /></a> </p>
 
-- 🔭 I’m currently studying on [Masai School](https://github.com/Fanu1931/Faneshwar-Gite.git)
+**🎓 Education:**
 
-- 🌱 I’m currently learning **Software Development in Test**
+- B.A Economics from Nasik University
 
-- 👯 I’m looking to collaborate on **Cypress Automation for Tutorials Ninja Search Functionality**
+- Currently enhancing my software skills at Masai School.
 
-- 🤝 I’m looking for help with **Affiliate Functionality Testing on OpenCart Demo Website**
+**💻 Skills:**
+- Programming Languages: Java, JavaScript, Python
+- Testing Tools: Cypress, Selenium, Postman, Jira
+- Testing Focus: Automated Testing, Manual Testing, Cross-Browser Compatibility
+- Methodologies: Page Object Model (POM), Agile Development
 
+**🚀 Projects:**
+**1. Cypress Automation for Tutorials Ninja Search Functionality:**
+- Automated search functionality on a demo
+  website using Cypress.
+- Simulated user interactions, such as searching
+  for products, using JavaScript.
+- Followed the Page Object Model for improved
+  structure and maintainability.
+
+**2. Affiliate Functionality Testing on OpenCart Demo Website:**
+- Evaluated affiliate marketing features on
+  OpenCart demo website.
+- Ensured seamless affiliate module operation and
+  user experience.
+- Focused on integration, functionality, and user
+  experience within OpenCart.
+
+**3. Employee Management System and String Manipulation Utility:**
+- Integrated employee management and string
+  processing functionalities.
+- Demonstrated polymorphism with a class
+  hierarchy for different employee roles.
+- Included a utility for advanced string
+  manipulation.
+
+**4. Movie Rental System:**
+- Implemented secure account creation, login, and
+  profile management.
+- Managed movie inventory with advanced search
+  and filter options.
+- Generated comprehensive reports on rentals,
+  financial metrics, and user behavior.
+
+
+**🌱 Current Focus:**
+- I am currently exploring advanced testing methodologies and contributing to open-source projects, enhancing my skills in software development and testing practices.
+
+**📞 Get in Touch:**
+- GitHub: Fanu1931
+- LinkedIn: (https://www.linkedin.com/in/fanu1931)
 - 📫 How to reach me **faneshwargite2018@gmail.com**
-
 - 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33)
+
+✨ Excited about building and testing quality software that delivers great user experiences! ✨
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
