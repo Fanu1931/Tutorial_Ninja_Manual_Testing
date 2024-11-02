@@ -52,12 +52,12 @@
 - I am currently exploring advanced testing methodologies and contributing to open-source projects, enhancing my skills in software development and testing practices.
 
 **📞 Get in Touch:**
-- GitHub: Fanu1931
-- LinkedIn: (https://www.linkedin.com/in/fanu1931)
-- 📫 Mail: **faneshwargite2018@gmail.com**
-- 📄 Resume Link: [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33)
+- **GitHub:** https://github.com/Fanu1931
+- **LinkedIn:** https://www.linkedin.com/in/fanu1931
+- **📫 Mail:** faneshwargite2018@gmail.com
+- **📄 Resume Link:** [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33)
 
-✨ Excited about building and testing quality software that delivers great user experiences! ✨
+**✨ Excited about building and testing quality software that delivers great user experiences! ✨**
 
 
 <h3 align="left">Connect with me:</h3>
