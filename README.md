@@ -53,7 +53,6 @@
 
 **📞 Get in Touch:**
 - **GitHub:** https://github.com/Fanu1931
-- **LinkedIn:** https://www.linkedin.com/in/fanu1931
 - **📫 Mail:** faneshwargite2018@gmail.com
 - **📄 Resume Link:** [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33)
 
