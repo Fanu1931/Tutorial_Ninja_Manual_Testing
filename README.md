@@ -14,6 +14,7 @@
 - Methodologies: Page Object Model (POM), Agile Development
 
 **🚀 Projects:**
+
 **1. Cypress Automation for Tutorials Ninja Search Functionality:**
 - Automated search functionality on a demo
   website using Cypress.
