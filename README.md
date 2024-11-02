@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faneshwar Gite</h1>
 <h3 align="center">A Passionate Software Development in Test from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fanu1931&label=Profile%20views&color=0e75b6&style=flat" alt="fanu1931" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fanu1931" alt="fanu1931" /></a> </p>
-
 **🎓 Education:**
 
 - B.A Economics from Nasik University
