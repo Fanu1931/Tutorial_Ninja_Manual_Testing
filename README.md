@@ -57,8 +57,8 @@
 **📞 Get in Touch:**
 - **GitHub:** https://github.com/Fanu1931
 - **📫 Mail:** faneshwargite2018@gmail.com
-- **📄 Resume Link:** [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6725f4597ca4c4119e784b33)
-
+- **📄 Resume Link:** https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6726fdbb6f511f3183f248e2
+  
 **✨ Excited about building and testing quality software that delivers great user experiences! ✨**
 
 ###
