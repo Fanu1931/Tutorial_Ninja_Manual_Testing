@@ -2,8 +2,6 @@
 <h3 align="center">A Passionate Software Development in Test from India</h3>
 
 
-
-
 **🎓 Education:**
 
 - B.A Economics from Nasik University
