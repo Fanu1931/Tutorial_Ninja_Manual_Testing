@@ -1,4 +1,5 @@
-Hi, there i'm Faneshwar Gite I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and selenium and solid foundation in javaScript and java My focuse is on ensuring quality through robust test suites and best practices in software testing,
+Hi, there i'm Faneshwar Gite. 
+I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and selenium and solid foundation in javaScript and java My focuse is on ensuring quality through robust test suites and best practices in software testing,
 
 **💻 Skills:**
 - Programming Languages: Java, JavaScript, Python
