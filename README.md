@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faneshwar Gite</h1>
-<h3 align="center">A Passionate Software Development in Test from India</h3>
-
-
-**🎓 Education:**
-
-- B.A Economics from Nasik University
-
-- Currently enhancing my software skills at Masai School.
+Hi, there i'm Faneshwar Gite I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and selenium and solid foundation in javaScript and java My focuse is on ensuring quality through robust test suites and best practices in software testing,
 
 **💻 Skills:**
 - Programming Languages: Java, JavaScript, Python
@@ -17,17 +9,16 @@
 **🚀 Projects:**
 
 1. **Cypress Automation for Tutorials Ninja Search Functionality:**  
-   Automated the search functionality of a demo website using Cypress. Simulated user interactions to ensure accurate product searches and enhance overall usability.
+   Automated the search functionality of a demo website using Cypress.
 
 2. **Affiliate Functionality Testing on OpenCart Demo Website:**  
-   Evaluated the affiliate marketing features of the OpenCart demo site. Focused on ensuring seamless integration and a positive user experience within the affiliate module.
+   Evaluated the affiliate marketing features of the OpenCart demo site. 
 
 3. **Employee Management System and String Manipulation Utility:**  
-   Developed an employee management system with string processing capabilities. Demonstrated polymorphism through a class hierarchy for diverse employee roles.
-
-4. **Movie Rental System:**  
-   Created a secure movie rental system with user account management and movie inventory features. Included advanced search options and generated detailed reports on rentals and user behavior.
-
+   Developed an employee management system with string processing capabilities.
+   
+5. **Movie Rental System:**  
+   Created a secure movie rental system with user account management and movie inventory features. 
 
 **🌱 Current Focus:**
 - I am currently exploring advanced testing methodologies and contributing to open-source projects, enhancing my skills in software development and testing practices.
