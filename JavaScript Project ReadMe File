@@ -1,0 +1,92 @@
+Here's a detailed README template for your Movie Rental Management System project, 
+based on the instructions and requirements provided:
+
+Movie Rental Management System
+Introduction
+The Movie Rental Management System is a Node.js application designed to manage a movie rental service. It handles movie inventory, rentals, and returns, allowing users to add movies, rent and return them, and calculate total revenue. The system demonstrates the use of JavaScript and Node.js to build a functional backend application.
+
+Project Type
+Backend
+
+Deployed App
+Currently, this project does not have a deployed version. It is a local Node.js application.
+
+Directory Structure
+movie-rental-management/
+├─ MovieRental.js
+├─ movieRental.js
+├─ utilities.js
+├─ test.js
+
+Video Walkthrough of the Project
+Attach a very short video walkthrough of all of the features [1 - 3 minutes]
+
+Video Walkthrough of the Codebase
+Attach a very short video walkthrough of the codebase [1 - 5 minutes]
+
+Features
+Add Movies: Add movies to the inventory with properties like title, genre, year, copies, and rating.
+
+Rent a Movie: Rent a movie by its title, checking availability and updating the inventory and rented movies.
+
+Return a Movie: Return a rented movie, update the inventory, calculate late fees, and remove renter's details.
+
+List Available Movies: List all movies with copies available, with optional sorting by rating or genre.
+
+Calculate Total Revenue: Calculate the total revenue generated from movie rentals.
+
+List All Movies: List all movies in the inventory with details.
+
+Design Decisions or Assumptions
+Modular Code: The code is modularized into separate files for better management.
+ES6 Syntax: ES6 import/export syntax is used for module management.
+
+Hard-Coded Data: Example data is hard-coded for demonstration and testing purposes.
+
+Late Fee Calculation: Assumptions are made for late fee calculation based on return dates.
+Installation & Getting Started
+1. Clone the repository:
+git clone https://github.com/Fanu1931/movie-rental-management.git
+2. Navigate into the project directory:
+cd movie-rental-management
+3. Install Node.js if it's not already installed.
+4. Initialize the project:
+npm init -y
+5. Create the necessary files (movieRental.js, utilities.js, MovieRental.js, test.js) 
+and add the code as described in the instructions.
+
+Usage
+1. Run the application:
+node movieRental.js
+
+2. Test the functionality:
+node test.js
+
+Include screenshots or example outputs as necessary.
+
+Credentials
+For authenticated pages (if applicable), provide user credentials here.
+
+APIs Used
+No external APIs are used in this project.
+API Endpoints
+This project does not include an API as it is a local Node.js application.
+
+Technology Stack
+Node.js: JavaScript runtime used for building the application.
+
+JavaScript: Programming language used to develop the backend logic.
+
+ES6 Modules: For modular code management.
+Code Structure and Testing
+
+MovieRental Class: Defined in MovieRental.js, handles all rental logic.
+
+Main Script: movieRental.js initializes the system and runs methods.
+
+Utility Functions: Defined in utilities.js, includes basic utility functions.
+
+Testing: test.js contains test cases to verify the functionality of methods in the MovieRental class.
+
+Commenting:
+Detailed comments are included throughout the code to explain functionality and usage of higher-order functions.
