@@ -1,0 +1,59 @@
+Readme template tailored for evaluating the Affiliate functionality of the OpenCart demo e-commerce website. 
+You can copy this text into a .md file for your documentation.
+
+Affiliate Functionality Testing - OpenCart Demo
+Overview
+This Readme provides details for evaluating the Affiliate functionality on the OpenCart demo e-commerce website (AUT). 
+The primary objectives are to assess the functionality, performance, and usability of the affiliate feature.
+
+Demo Website
+OpenCart Demo
+
+Objectives
+Functional Testing: Ensure that the affiliate feature operates as expected.
+Usability Testing: Evaluate the user experience related to the affiliate feature.
+
+Testing Tasks
+1. Functional Testing
+Homepage Links:
+Verify that all links on the homepage navigate to the correct pages.
+Affiliate Feature:
+Test the affiliate functionality with different keywords and verify that the results are accurate.
+Check if the affiliate feature displays information correctly.
+Add affiliate information and verify that it is correctly processed and displayed.
+2. Usability Testing
+Navigation:
+Evaluate the ease of navigation through the affiliate sections of the website.
+Product Information:
+Assess the clarity and accessibility of product information within the affiliate context.
+User Experience:
+Provide feedback on the overall user experience related to the affiliate functionality, including ease of use and accessibility.
+Test Cases
+Functional Testing
+Homepage Links:
+
+Test Case 1: Click on each link on the homepage and verify the destination page.
+Expected Result: All links should direct to the correct pages without errors.
+Affiliate Feature:
+
+Test Case 2: Search using various keywords within the affiliate feature and verify search results.
+Expected Result: Search results should be accurate and relevant.
+
+Test Case 3: Add new affiliate information and check if it displays correctly.
+Expected Result: Added information should appear as expected and be correctly formatted.
+Usability Testing
+Navigation:
+
+Test Case 4: Navigate through the affiliate sections and report on ease of navigation.
+Expected Result: Navigation should be intuitive and straightforward.
+Product Information:
+
+Test Case 5: Assess the readability and accessibility of product details related to the affiliate section.
+Expected Result: Product information should be clear and easily accessible.
+User Experience:
+
+Test Case 6: Provide feedback on the overall user experience with the affiliate feature.
+Expected Result: The user experience should be satisfactory, with any issues or suggestions noted.
+
+Feedback
+Please document any issues or observations during testing and provide detailed feedback on both functionality and usability.
